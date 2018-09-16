@@ -1,5 +1,5 @@
 # IkunOSTile
-![IkunOSTile ScreenShot](https://github.com/yatcin/IkunOSMap/blob/master/ikunostyle.png "IkunOSTile ScreenShot")
+![IkunOSTile ScreenShot](https://github.com/yatcin/IkunOSMap/blob/master/ikunostyle.png "IkunOSTile ScreenShot")<br>
 “**IkunOSTile**”( 「生野スタイル」と読みます )はOpenStreetMapの地図データを使った地図タイルです。<br>
 地図データ登録時に付けられた、”**name:en**”タグをオブジェクトのラベルで表示するようにしました。<br>
 (“name:en”タグが付けられていない場合は”**name**”タグでラベリングしています。)
