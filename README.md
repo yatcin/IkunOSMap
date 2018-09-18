@@ -25,7 +25,7 @@ http://yatcin.la.coocan.jp/ikunosmap/ikunostile.html
 IkunOSTileはCC-BY--SA 4.0ライセンスのもとで公開しています。<br>
 CC-BY--SA 4.0ライセンス条件を満たす限り、自由な複製・配布・修正を無制限に行うことができます。<br>
 タイルの使用は自由ですが、使用時は次のクレジットを表示してください。<br>
-`Map data © OpenStreetMap contributors, CC-BY-SA. Map tiles by IkunOSMap Project, under CC-BY-SA 4.0. Data by OpenStreetMap, under ODbL.`
+`Map data © OpenStreetMap contributors, CC-BY-SA. Map tiles by IkunOSMap Project, under CC-BY-SA 4.0.`
 
 # Maintainers
 
