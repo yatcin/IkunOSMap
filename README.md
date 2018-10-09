@@ -2,7 +2,7 @@
 
 # IkunOSTile
 ![IkunOSTile ScreenShot](https://github.com/yatcin/IkunOSMap/blob/master/ikunostile.png "IkunOSTile ScreenShot")<br>
-We launched “**IkunOSTile**” [Ikunòstáil] : a tile layer for foreigners, some are stay in Japan, some are interested in Japan.<br>
+We launched “**IkunOSTile**” [Ikunòstáil] : a tile layer for foreigners.<br>
 Some objects on the OpenStreetMap, are registered with a tag “**name:en**” (English name),  this layer describes these objects with that English name for labeling.<br>
 (except some objects have no “name:en” tag)
 
