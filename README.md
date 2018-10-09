@@ -30,4 +30,4 @@ We require that you use the credit “Map data © OpenStreetMap contributors , C
 `Map data © OpenStreetMap contributors, CC-BY-SA. Map tiles by IkunOSMap Project, under CC-BY-SA 4.0.`
 
 # Maintainers
-* Yasuhiro Wada
+* Yasuhiro Wada (@yatcin)
