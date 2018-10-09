@@ -1,4 +1,4 @@
-(日本語版は[README-ja.md](README.md)を参照)
+(English version, see [README.md](README.md))
 
 # IkunOSTile
 ![IkunOSTile ScreenShot](https://github.com/yatcin/IkunOSMap/blob/master/ikunostile.png "IkunOSTile ScreenShot")<br>
