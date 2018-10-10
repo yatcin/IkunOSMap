@@ -7,7 +7,7 @@ Some objects on the OpenStreetMap, are registered with a tag “**name:en**” (
 (except some objects have no “name:en” tag)
 
 # Why IkunOSTile?
-“**Ikuno Ward**” (or “**Ikuno-Ku**”) is one of 24 wards of Osaka, Japan. And as known the most largest foreigner registrations stay in the city, so we named “IkunOSTile” by
+“**Ikuno Ward**” (or “**Ikuno-Ku**”) is one of 24 wards of Osaka, Japan. And as known the most largest foreigner registrations stay in the city, so we named “IkunOSTile.”<br>
 (more information for Ikuno Ward, see at https://en.wikipedia.org/wiki/Ikuno-ku,_Osaka)
 
 # Copyright and License
