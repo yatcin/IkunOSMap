@@ -6,7 +6,7 @@ We launched “**IkunOSTile**” [Ikunòstáil] : a tile layer for foreigners.<b
 Some objects on the OpenStreetMap, are registered with a tag “**name:en**” (English name),  this layer describes these objects with that English name for labeling.<br>
 (except some objects have no “name:en” tag)
 
-**Note:** We offer only Japan area now.
+**Notice:** We offer only Japan area now.
 
 # Why IkunOSTile?
 “**Ikuno Ward**” (or “**Ikuno-Ku**”) is one of 24 wards of Osaka, Japan. And as known the most largest foreigner registrations stay in the city, so we named “IkunOSTile.”<br>
