@@ -2,12 +2,15 @@
 
 # IkunOSTile
 ![Ikuno Style ScreenShot](https://github.com/yatcin/IkunOSMap/blob/master/ikunostile.png "Ikuno Style ScreenShot")<br>
+(Ikuno Style)<br>
 ![Ikuno HK STile ScreenShot](https://github.com/yatcin/IkunOSMap/blob/master/ikunostilehk.png "Ikuno HK Style ScreenShot")<br>
+(Ikuno HK Style)<br>
+<br>
 We launched “**IkunOSTile**” [Ikunòstáil] : two type of tile layers for foreigners, one is labeled by Roman characters, other one is labeled by Hiragana characters.<br>
 
 Some objects on the OpenStreetMap, are registered with a tag “**name:en**” (English name) or “**name:ja-Hira**” (Japanese name by Hiragana characters),<br>
-[Ikuno Style] layer describes these objects with that English name by Roman characters for labeling.<br>
-[Ikuno HK Style] layer describes these objects with that Japanese name by Hiragana characters for labeling.<br>
+- [Ikuno Style] layer describes these objects with that English name by Roman characters for labeling.<br>
+- [Ikuno HK Style] layer describes these objects with that Japanese name by Hiragana characters for labeling.<br>
 (except some objects have no “name:en” or "name:ja-Hira" tag)
 
 **Notice:** We offer only Japan area now.
