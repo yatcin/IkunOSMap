@@ -10,9 +10,9 @@ We launched “**IkunOSTile**” [Ikunòstáil] : two type of tile layers for fo
 
 Some objects on the OpenStreetMap, are registered with a tag “**name:en**” (English name) or “**name:ja-Hira**” (Japanese name by Hiragana characters),<br>
 - [Ikuno Style] layer describes these objects with that English name by Roman characters for labeling.<br>
-(except some objects have no “name:en”)
+(except some objects have no “**name:en**”)
 - [Ikuno HK Style] layer describes these objects with that Japanese name by Hiragana characters for labeling.<br>
-(except some objects have no "name:ja-Hira" tag)
+(except some objects have no "**name:ja-Hira**" tag)
 
 **Notice:** We offer only Japan area now.
 

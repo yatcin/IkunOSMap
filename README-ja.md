@@ -10,7 +10,7 @@
 地図データ登録時に付けられた、”**name:en**”、“**name:ja-Hira**”タグをオブジェクトのラベルで表示するようにしました。<br>
 ・[Ikuno Style]　”**name:en**”タグでラベルを表記します。<br>
 ・[Ikuno HK Style]　“**name:ja-Hira**”タグでラベルを表記します。<br>
-(“name:en”、“**name:ja-Hira**”タグが付けられていない場合は”**name**”タグでラベリングしています。)
+(“**name:en**”、“**name:ja-Hira**”タグが付けられていない場合は”**name**”タグでラベリングしています。)
 
 **Notice:** 現在は日本エリアのみの提供となります。
 
@@ -34,13 +34,15 @@ L.tileLayer('https://tile.yatcin.net/osmhk_tiles/{z}/{x}/{y}.png').addTo(map);
 (“tile layer”の詳細については[leaflet manual page](https://leafletjs.com/)を参照)
 
 IkunOSTileを使用したサンプルページは下記になります。<br>
-https://yatcin.la.coocan.jp/ikunosmap/ikunostile.html
+https://yatcin.la.coocan.jp/ikunosmap/ikunostile2.html
 
 # ライセンス
 IkunOSTileはCC-BY--SA 4.0ライセンスのもとで公開しています。<br>
 CC-BY--SA 4.0ライセンス条件を満たす限り、自由な複製・配布・修正を無制限に行うことができます。<br>
 タイルの使用は自由ですが、使用時は次のクレジットを表示してください。<br>
+```
 `Map data © OpenStreetMap contributors, CC-BY-SA. Map tiles by IkunOSMap Project, under CC-BY-SA 4.0.`
+```
 
 # Maintainers
 
