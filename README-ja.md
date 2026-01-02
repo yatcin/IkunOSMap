@@ -19,7 +19,7 @@
 **Notice:** 現在は日本エリアのみの提供となります。
 
 # What's IkunOSTile?
-[大阪市生野区](https://ja.wikipedia.org/wiki/Ikuno-ku,_Osaka)は大阪市の中で最も外国人居住者が多い区です。<br>
+[大阪市生野区](https://ja.wikipedia.org/wiki/%E7%94%9F%E9%87%8E%E5%8C%BA)は大阪市の中で最も外国人居住者が多い区です。<br>
 生野区在住の外国人にとって使い勝手の良い地図を作りたいとの思いから「IkunOSTile」と名付けました。<br>
 ("**Ikuno Style**"と"**Ikuno’s Tile**"、”**OpenStreetMap**”の通称 “**OSM**”を掛け合わせています。)
 
