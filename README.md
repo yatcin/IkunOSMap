@@ -1,10 +1,14 @@
 (日本語版は[README-ja.md](README-ja.md)を参照)
 
 # IkunOSTile
-![IkunOSTile ScreenShot](https://github.com/yatcin/IkunOSMap/blob/master/ikunostile.png "IkunOSTile ScreenShot")<br>
-We launched “**IkunOSTile**” [Ikunòstáil] : a tile layer for foreigners.<br>
-Some objects on the OpenStreetMap, are registered with a tag “**name:en**” (English name),  this layer describes these objects with that English name for labeling.<br>
-(except some objects have no “name:en” tag)
+![Ikuno Style ScreenShot](https://github.com/yatcin/IkunOSMap/blob/master/ikunostile.png "Ikuno Style ScreenShot")<br>
+![Ikuno HK STile ScreenShot](https://github.com/yatcin/IkunOSMap/blob/master/ikunostilehk.png "Ikuno HK Style ScreenShot")<br>
+We launched “**IkunOSTile**” [Ikunòstáil] : two type of tile layers for foreigners, one is labeled by Roman characters, other one is labeled by Hiragana characters.<br>
+
+Some objects on the OpenStreetMap, are registered with a tag “**name:en**” (English name) or “**name:ja-Hira**” (Japanese name by Hiragana characters),<br>
+[Ikuno Style] layer describes these objects with that English name by Roman characters for labeling.<br>
+[Ikuno HK Style] layer describes these objects with that Japanese name by Hiragana characters for labeling.<br>
+(except some objects have no “name:en” or "name:ja-Hira" tag)
 
 **Notice:** We offer only Japan area now.
 
@@ -18,14 +22,20 @@ Some objects on the OpenStreetMap, are registered with a tag “**name:en**” (
 # Usage
 Used to load and display tile layers on the map, you just write following line.
 
+(in case of [Ikuno Style])
 ```
-http://tile.yatcin.net/osm_tiles/{z}/{x}/{y}.png
+L.tileLayer('https://tile.yatcin.net/osm_tiles/{z}/{x}/{y}.png').addTo(map);
+```
+
+(in case of [Ikuno HK Style])
+```
+L.tileLayer('https://tile.yatcin.net/osmhk_tiles/{z}/{x}/{y}.png').addTo(map);
 ```
 
 (More details usage about “tile layer”, you can get at [leaflet manual page](https://leafletjs.com/).)
 
 You see sample page
-http://yatcin.la.coocan.jp/ikunosmap/ikunostile.html
+https://yatcin.la.coocan.jp/ikunosmap/ikunostile2.html
 
 # Credit
 We require that you use the credit “Map data © OpenStreetMap contributors , CC-BY-SA, Map tiles by IkunOSMap Project,  under CC BY-SA.”
