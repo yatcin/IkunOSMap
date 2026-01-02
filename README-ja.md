@@ -11,11 +11,8 @@
 ・[Ikuno Style]　”**name:en**”タグでラベルを表記します。<br>
 ・[Ikuno HK Style]　“**name:ja-Hira**”タグでラベルを表記します。<br>
 (“**name:en**”、“**name:ja-Hira**”タグが付けられていない場合は”**name**”タグでラベリングしています。)
-
-:::note info
-住所表記には[郵便番号データ]を使用しています。<br>
-([郵便番号データ]の詳細は[郵便番号データの説明](https://www.post.japanpost.jp/zipcode/dl/readme.html)を参照)
-:::
+> 住所表記には[郵便番号データ]を使用しています。<br>
+> ([郵便番号データ]の詳細は[郵便番号データの説明](https://www.post.japanpost.jp/zipcode/dl/readme.html)を参照)
 
 **Notice:** 現在は日本エリアのみの提供となります。
 
