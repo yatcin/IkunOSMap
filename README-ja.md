@@ -9,15 +9,17 @@
 “**IkunOSTile**”( 「生野スタイル」と読みます )はOpenStreetMapの地図データを使った2種類の地図タイルです。<br>
 地図データ登録時に付けられた、”**name:en**”、“**name:ja-Hira**”タグをオブジェクトのラベルで表示するようにしました。<br>
 ・[Ikuno Style]　”**name:en**”タグでラベルを表記します。<br>
-・[Ikuno HK Style]　“**name:ja-Hira**”タグでラベルを表記します。<br>
+・[Ikuno HK Style]　“**name:ja-Hira**”タグでラベルを表記します。(※)<br>
 (“**name:en**”、“**name:ja-Hira**”タグが付けられていない場合は”**name**”タグでラベリングしています。)
-> 住所表記には[郵便番号データ]を使用しています。<br>
+
+> **※**
+> 住所表記は[郵便番号データ]を使用しています。その他の名称は“**name:ja-Hira**”タグを使用しています。<br>
 > ([郵便番号データ]の詳細は[郵便番号データの説明](https://www.post.japanpost.jp/zipcode/dl/readme.html)を参照)
 
 **Notice:** 現在は日本エリアのみの提供となります。
 
 # What's IkunOSTile?
-[大阪市生野区](https://en.wikipedia.org/wiki/Ikuno-ku,_Osaka)は大阪市の中で最も外国人居住者が多い区です。<br>
+[大阪市生野区](https://ja.wikipedia.org/wiki/Ikuno-ku,_Osaka)は大阪市の中で最も外国人居住者が多い区です。<br>
 生野区在住の外国人にとって使い勝手の良い地図を作りたいとの思いから「IkunOSTile」と名付けました。<br>
 ("**Ikuno Style**"と"**Ikuno’s Tile**"、”**OpenStreetMap**”の通称 “**OSM**”を掛け合わせています。)
 
